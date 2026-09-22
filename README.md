@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently learning Game Dev and Graphics With C++<br>🎯 Goals: Work as a REAL Programmer<br>🎲 Fun fact: I already other 2 languages (but i hate python...)</p>
+<p data-importer="text" align="left">📚 I'm currently learning Game Dev and Graphics With C++<br>🎯 Goals: Work as a REAL Programmer<br></p>
 
 ###
 
